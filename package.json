@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-docker",
+  "version": "1.0.0",
+  "description": "Test repo for docker!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccampell/hello-world-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccampell/hello-world-docker/issues"
+  },
+  "homepage": "https://github.com/ccampell/hello-world-docker#readme"
+}
